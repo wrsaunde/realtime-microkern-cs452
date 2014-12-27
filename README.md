@@ -2,7 +2,7 @@
 
 This is a project for
 [CS452](https://www.student.cs.uwaterloo.ca/~cs452/) at the University
-of Waterloo. It's a result of the many hours William Saunders and I
+of Waterloo. It's a result of the many hours Steven MacLeod and William Saunders
 spent in the trains lab in 2011.
 
 Included is a realtime micro kernel, and application code to run atop
